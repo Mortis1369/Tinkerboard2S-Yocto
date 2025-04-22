@@ -1,0 +1,6 @@
+[submodule "yocto-meta-asus-local"]
+	path = yocto-meta-asus-local
+	url = https://github.com/mortis1369/yocto-meta-asus-local.git
+[submodule "yocto-meta-rockchip"]
+	path = yocto-meta-rockchip
+	url = https://github.com/mortis1369/yocto-meta-rockchip.git
